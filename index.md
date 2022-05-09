@@ -6,8 +6,21 @@ A temporary website for my ArcheAge Crafting calculator project, because Microso
 
 - Recursive Recipe Breakdown
 - Crafting path choice based on cost
+- Profit calculator
 - Discord bot mode
 - Local data support
+
+### Upcoming Features
+
+- Lua scripting support
+- Telegram bot mode
+- Web app mode
+- Overlay mode
+- Step-by-step calculator mode
+
+### Calculator Screenshots
+
+![Calculator Screenshot](/aacraft/assets/screenshot1.png)
 
 ### Find it on the Microsoft Store!
 (WIP)
