@@ -22,6 +22,7 @@ A temporary website for my ArcheAge Crafting calculator project, because Microso
 
 ![Calculator Screenshot](/aacraft/calculatorscreenshot.png)
 ![Calculator Screenshot 2](/aacraft/screenshot2.png)
+![Calculator Screenshot 3](/aacraft/discordmode.png)
 
 ### Find it on the Microsoft Store!
 (WIP)
