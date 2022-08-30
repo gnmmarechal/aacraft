@@ -1,6 +1,6 @@
 ## ArcheAge Crafting Calculator
 
-A temporary website for my ArcheAge Crafting calculator project, because Microsoft is having issues resolving [my website](https://gs201.xyz) and therefore failing the application certification process.
+A temporary website for my ArcheAge Crafting calculator project, because Microsoft is having issues resolving [my website](https://gs2012.xyz) and therefore failing the application certification process.
 
 ### Latest Update: 28/08/2022 (v.0.15.0.71)
 
