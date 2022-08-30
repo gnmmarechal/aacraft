@@ -32,4 +32,4 @@ A temporary website for my ArcheAge Crafting calculator project, because Microso
 ![Calculator Screenshot 3](/aacraft/discordmode.png)
 
 ### Find it on the Microsoft Store!
-![Microsoft Store](/aacraft/1200px-Get_it_from_Microsoft_Badge.svg.png)(https://apps.microsoft.com/store/detail/archeage-crafting-calculator/9P4D652FVH6W)
+![Download it here!](https://apps.microsoft.com/store/detail/archeage-crafting-calculator/9P4D652FVH6W)
