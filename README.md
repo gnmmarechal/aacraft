@@ -3,17 +3,19 @@
 
 ### Latest Update: 17/10/2022 (v.0.20.0.127)
 
-- Introduced a labour calculator (including support for labour usage reduction with higher proficiency).
-- Added a profit/labour measure.
+- Added config file to create and load settings!
 
 ### Basic Features
 
 - Recursive Recipe Breakdown
 - Crafting path choice based on cost
 - Profit calculator
+- Labour calculator
 - Discord bot mode
 - Local data support
 - Online data support (including sync over FTP)
+- Multiserver support
+
 
 ### Upcoming Features
 
@@ -21,8 +23,6 @@
 - Telegram bot mode
 - Web app mode
 - Overlay mode
-- Step-by-step calculator mode
-- Single, easily accessible settings file.
 
 Currently available on the Microsoft Store - for other releases, contact me.
 
