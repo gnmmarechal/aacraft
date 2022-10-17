@@ -1,7 +1,7 @@
 # ArcheAge Crafting Calculator
 
 
-### Latest Update: 28/08/2022 (v.0.15.0.71)
+### Latest Update: 17/10/2022 (v.0.20.0.127)
 
 - Introduced a labour calculator (including support for labour usage reduction with higher proficiency).
 - Added a profit/labour measure.
