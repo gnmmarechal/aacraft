@@ -2,10 +2,9 @@
 
 A temporary website for my ArcheAge Crafting calculator project, because Microsoft is having issues resolving [my website](https://gs2012.xyz) and therefore failing the application certification process.
 
-### Latest Update: 17/10/2022 (v.0.20.0.71)
+### Latest Update: 17/10/2022 (v.0.20.0.127)
 
-- Introduced a labour calculator (including support for labour usage reduction with higher proficiency).
-- Added a profit/labour measure.
+- Added config file to create and load settings!
 
 ### Basic Features
 
@@ -16,7 +15,8 @@ A temporary website for my ArcheAge Crafting calculator project, because Microso
 - Discord bot mode
 - Local data support
 - Online data support (including sync over FTP)
-- Config file!
+- Multiserver support
+
 
 ### Upcoming Features
 
