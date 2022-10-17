@@ -1,4 +1,4 @@
-# aacraft
+# ArcheAge Crafting Calculator
 gnmmarechal's AA Crafting Calculator
 
 Currently available on the Microsoft Store - for other releases, contact me.
