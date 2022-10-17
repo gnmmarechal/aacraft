@@ -2,7 +2,7 @@
 
 A temporary website for my ArcheAge Crafting calculator project, because Microsoft is having issues resolving [my website](https://gs2012.xyz) and therefore failing the application certification process.
 
-### Latest Update: 28/08/2022 (v.0.15.0.71)
+### Latest Update: 17/10/2022 (v.0.20.0.71)
 
 - Introduced a labour calculator (including support for labour usage reduction with higher proficiency).
 - Added a profit/labour measure.
@@ -12,9 +12,11 @@ A temporary website for my ArcheAge Crafting calculator project, because Microso
 - Recursive Recipe Breakdown
 - Crafting path choice based on cost
 - Profit calculator
+- Labour calculator
 - Discord bot mode
 - Local data support
 - Online data support (including sync over FTP)
+- Config file!
 
 ### Upcoming Features
 
@@ -23,7 +25,6 @@ A temporary website for my ArcheAge Crafting calculator project, because Microso
 - Web app mode
 - Overlay mode
 - Step-by-step calculator mode
-- Single, easily accessible settings file.
 
 ### Calculator Screenshots
 
