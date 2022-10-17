@@ -26,6 +26,9 @@
 
 Currently available on the Microsoft Store - for other releases, contact me.
 
+### Find it on the Microsoft Store!
+[Download it here!](https://apps.microsoft.com/store/detail/archeage-crafting-calculator/9P4D652FVH6W)
+
 ![Calculator Screenshot](calculatorscreenshot.png)
 ![Calculator Screenshot 2](screenshot2.png)
 ![Calculator Screenshot 3](discordmode.png)
